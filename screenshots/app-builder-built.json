@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Meridian",
+      "hasCanvas": false,
+      "bodyTextLen": 733,
+      "bodyTextHash": "b592a4552e76888eb4c4716a178a3ae07679f851b8aaac21b90cc87b46691725",
+      "bodyTextPrefix": "Meridian Open vault PRIVATE BANKING · DEMONSTRATION Quiet capita",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Meridian",
+      "hasCanvas": false,
+      "bodyTextLen": 733,
+      "bodyTextHash": "b592a4552e76888eb4c4716a178a3ae07679f851b8aaac21b90cc87b46691725",
+      "bodyTextPrefix": "Meridian Open vault PRIVATE BANKING · DEMONSTRATION Quiet capita",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

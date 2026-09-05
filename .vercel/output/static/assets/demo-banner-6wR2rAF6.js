@@ -1,0 +1,1 @@
+import{p as e}from"./index-DNKiUvQU.js";var t=e();function n(){return(0,t.jsx)(`p`,{className:`rounded-md bg-elevated px-3 py-2 text-xs text-muted shadow-border`,children:`Demonstration only. No real money, accounts, or institutions.`})}export{n as t};

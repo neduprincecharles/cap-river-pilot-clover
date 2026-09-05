@@ -1,0 +1,1 @@
+import{p as e}from"./index-DNKiUvQU.js";var t=e();function n({className:e}){return(0,t.jsxs)(`svg`,{viewBox:`0 0 24 24`,className:e,"aria-hidden":`true`,children:[(0,t.jsx)(`circle`,{cx:`12`,cy:`12`,r:`9`,fill:`none`,stroke:`currentColor`,strokeWidth:`1.75`}),(0,t.jsx)(`path`,{d:`M7 12h10M12 7v10`,stroke:`currentColor`,strokeWidth:`1.75`})]})}export{n as t};
